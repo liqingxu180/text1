@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 //1.
+=======
+1.
+>>>>>>> f8ca13c0f8397303aa494a63055497722e8c0b70
 #include <iostream>
 using namespace std;
 int main()
@@ -11,6 +15,7 @@ int main()
     cout << "Welcome to C++" << endl;
     return 0;
 }
+<<<<<<< HEAD
 
 
 
@@ -24,3 +29,5 @@ int main()
 
 
 
+=======
+>>>>>>> f8ca13c0f8397303aa494a63055497722e8c0b70
